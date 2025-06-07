@@ -33,7 +33,7 @@ The following features affects the price of the used car the most. Used car deal
 * Odometer: The value of the Odometer affects the car price. The lower the odometer value the higher the price.
 
 **Next steps and recommendation**
-* Fine tune the inventory taking in consideration of the above listed features that most influences the used car price.
+* Fine tune the inventory taking in consideration of the above listed features that affect the used car price significantly.
   
-
 **Link to notebook:**  
+https://github.com/sunshine5/Practical-Application-2/blob/main/prompt_II.ipynb
